@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berags)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @Berags
 - 👀 I’m interested in web develompent and cybersecurity
 - 🌱 I’m currently learning Computer Science in Italy
