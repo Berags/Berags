@@ -10,3 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berags&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berags)](https://github.com/anuraghazra/github-readme-stats)
+
+## 👀 Recent GitHub activity
+
+<!--START_SECTION:activity-->
