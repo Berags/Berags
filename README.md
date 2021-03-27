@@ -5,6 +5,10 @@
 
 - 🏁 **2021 goal:** learn cybersecurity
 
+## 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Berags&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📊 Stats 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berags&count_private=true&show_icons=true&theme=tokyonight)
