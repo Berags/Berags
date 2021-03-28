@@ -14,7 +14,7 @@
 ## 👀 Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1614](https://github.com/benawad/dogehouse/pull/1614) in [benawad/dogehouse](https://github.com/benawad/dogehouse)
+1. 💪 Opened PR [#450](https://github.com/qiskit-community/qiskit-translations/pull/450) in [qiskit-community/qiskit-translations](https://github.com/qiskit-community/qiskit-translations)
 <!--END_SECTION:activity-->
 
 ## 🏆 Trophies
