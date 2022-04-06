@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Berags
+- Student at Università degli Studi di Firenze
 
 [![Stack overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12445398/jacopo-beragnoli)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Berags)
-
-- 🏁 **2021 goal:** learn cybersecurity
 
 ## 📊 Stats 
 
