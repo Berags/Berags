@@ -13,7 +13,7 @@
 ## 👀 Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#450](https://github.com/qiskit-community/qiskit-translations/pull/450) in [qiskit-community/qiskit-translations](https://github.com/qiskit-community/qiskit-translations)
+
 <!--END_SECTION:activity-->
 
 ## 🏆 Trophies
